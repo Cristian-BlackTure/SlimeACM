@@ -1,4 +1,4 @@
-package io.github.blackture.ACMCE;
+package io.github.blackture.ACMItems;
 
 import java.util.ArrayList;
 import java.util.HashMap;
